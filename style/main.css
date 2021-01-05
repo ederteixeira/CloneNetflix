@@ -24,7 +24,7 @@ header .container {
 
 header .logo {
     color: var(--vermelho);
-    font-size: 40px;
+    font-size: 16px;
     font-family: Arial, Times, serif;
     margin-left: 10px;
 }
@@ -41,7 +41,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/matrixrev.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('../img/matrixrev.jpg');
     height: 400px;
     background-size: cover;
     display: flex;
