@@ -12,4 +12,4 @@ Tecnologias utilizadas:
 
 Bootcamp HTML Web Developer da Digital Inovation One.
 
-Instrutor: Felipe Aguiar
+Instrutor: Felipe Aguiar (https://www.linkedin.com/in/felipe-aguiar-047/)
